@@ -1,0 +1,28 @@
+name: Louren van Garderen
+favicon: null
+layout_spectrum: 0.3587962272576988
+typography_spectrum: 0.4351859297603369
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.15632284502498806
+  lightness: 0.39288557693362236
+  saturation: 0.2001357947010547
+  rhythmicContrast: 0.16319790668785572
+purpose: []
